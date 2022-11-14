@@ -11,9 +11,8 @@
     <RepositoryType>git</RepositoryType>
     <PackageIcon>Healt.jpg</PackageIcon>
     <PackageId>health-calc-dotnet-deboramoura</PackageId>
-    <Version>1.0.0</Version>
+    <Version>1.1.0</Version>
   </PropertyGroup>
-
   <ItemGroup>
     <None Include="..\..\..\..\..\Healt.jpg">
       <Pack>True</Pack>
