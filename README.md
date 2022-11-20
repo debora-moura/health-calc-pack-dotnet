@@ -11,7 +11,7 @@ Implementada a função de calculadora IMC, onde é realizado a cálculo do IMC,
 
 <img src="docshealth\modelo.PNG" alt="Health calc">
 
-## 💻 Pré - Requisitos
+# 💻 Pré - Requisitos
  
 Antes de iniciar, verificar se obtém os seguintes requisitos:
 - Versão atualizada do Visual Studio 
