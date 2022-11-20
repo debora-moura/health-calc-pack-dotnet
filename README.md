@@ -41,11 +41,7 @@ Os macronutrientes são calculados baseados nos seguintes parâmetros e regras:
 
 -	Sexo
 - Peso (kg)
--	Nível de Atividade:
--	Sedentário
--	Moderadamente Ativo
--	Bastante Ativo
--	Extremamente Ativo
+-	Nível de Atividade: Sedentário, Moderadamente Ativo, Bastante Ativo, Extremamente Ativo.
 
 •	Objetivo:
 
