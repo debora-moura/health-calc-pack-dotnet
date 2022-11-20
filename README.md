@@ -4,14 +4,14 @@
 - Curso de Pós-Graduação em Engenharia de Software da PUC-MG
 - Projeto apresentado à disciplina: Projeto Integrado em Engenharia de Software
 
-# Proposta Projeto
+# 💻 Proposta Projeto
 
 Como implementação foi realizado nesse projeto uma calculadora nutricional desenvolvida como uma biblioteca na linguagem C# e é distribuída como um pacote NuGet que é um repositório onde é adicionado uma biblioteca e pode ser compartilhado. Além disso nesse projeto foi desenvolvido testes unitários para garantir uma melhor performance e segurança, livre de falhas.
 Implementada a função de calculadora IMC, onde é realizado a cálculo do IMC, utilizando perfil a partir da altura, idade, peso e sexo, e também é realizada a função de Calculadora de macronutrientes.
 
 <img src="docshealth\modelo.PNG" alt="Health calc">
 
-## Pré - Requisitos
+## 💻 Pré - Requisitos
  
 Antes de iniciar, verificar se obtém os seguintes requisitos:
 - Versão atualizada do Visual Studio 
@@ -19,11 +19,11 @@ Antes de iniciar, verificar se obtém os seguintes requisitos:
 - Versão mais atualizada Git.
 -  Ferramenta de xUnit.net
 
-# Requisitos
+# 💻 Requisitos
 
 <img src="docshealth\requisitos.PNG" alt="Requisitos Funcionais e Não funcionais">
 
-# Cálculo IMC
+### Cálculo IMC
 
 IMC = Peso dividido pela altura ao quadrado ( peso/altura²) 
 
@@ -35,7 +35,7 @@ Classifição:
 -	Entre 35.0 e 39.9 - Obesidade Grau 2
 -	Acima de 40 - Obesidade Grau 3
 
-# Cálculo Macronutrientes
+### Cálculo Macronutrientes
 
 Os macronutrientes são calculados baseados nos seguintes parâmetros e regras:
 
@@ -66,7 +66,7 @@ Os macronutrientes são calculados baseados nos seguintes parâmetros e regras:
 - Gordura: 1g por Kg
 - Carboidrato: 5g por Kg (Encontrar o valor ideal aqui verificando o peso a cada semana)
 
-#   Arquitetura
+# 💻 Arquitetura
 
 Para este projeto foi utilizado a Onion Architecture que   é um padrão de arquitetura que propõe que o software deve ser feito em camadas, cada camada com sua própria preocupação ou responsabilidade.
 
