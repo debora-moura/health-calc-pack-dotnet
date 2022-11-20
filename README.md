@@ -69,7 +69,17 @@ Os macronutrientes são calculados baseados nos seguintes parâmetros e regras:
 #   Arquitetura
 
 Para este projeto foi utilizado a Onion Architecture que   é um padrão de arquitetura que propõe que o software deve ser feito em camadas, cada camada com sua própria preocupação ou responsabilidade.
+
+<img src="docshealth\arquitetura.PNG" alt="Onion Architecture">
+
        Utilizado também o Design Patterns comportamental:  Strategy parteness é um design comportamental que define algoritmos para cada um deles e separa uma classe e cria os seus objetos intercambiáveis. A escolha desse design se justifica pelo fato da aplicação possui comportamentos semelhantes, mas que algumas vezes a implementação é indiferente além de poder usar como uma classe que vai executar o que for necessário ou especifico. Como vantagem é que o comportamento é isolado, ou seja, se amanhã for necessário remover esse comportamento poderia apenas deletar a classe que não vai gerar nenhum impacto e em contrapartida caso seja necessário acrescentar apenas implementaria o serviço dela. 
+       
+       - Exemplo de estrutura padrão: Strategy 
+       
+       <img src="docshealth\estruturaStrategy.PNG" alt="Strategy parteness">
+       Referencia pagina: https://refactoring.guru/design-patterns/strategy
+
+
        
        
 
