@@ -9,7 +9,7 @@ Projeto apresentado à disciplina _Projeto Integrado em Engenharia de Software
 Como implementação foi realizado nesse projeto uma calculadora nutricional desenvolvida como uma biblioteca na linguagem C# e é distribuída como um pacote NuGet que é um repositório onde é adicionado uma biblioteca e pode ser compartilhado. Além disso nesse projeto foi desenvolvido testes unitários para garantir uma melhor performance e segurança, livre de falhas.
 Implementada a função de calculadora IMC, onde é realizado a cálculo do IMC, utilizando perfil a partir da altura, idade, peso e sexo, e também é realizada a função de Calculadora de macronutrientes.
 
-<img src="docshealth\modelo.png" alt="Health calc">
+<img src="docshealth\modelo.PNG" alt="Health calc">
 
 ## Pré - Requisitos
  
@@ -21,7 +21,7 @@ Antes de iniciar, verificar se obtém os seguintes requisitos:
 
 # Requisitos
 
-<img src="docshealth\requisitos.png" alt="Requisitos Funcionais e Não funcionais">
+<img src="docshealth\requisitos.PNG" alt="Requisitos Funcionais e Não funcionais">
 
 # Cálculo IMC
 
