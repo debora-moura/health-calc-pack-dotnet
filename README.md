@@ -77,6 +77,7 @@ Para este projeto foi utilizado a Onion Architecture que   é um padrão de arqu
        - Exemplo de estrutura padrão: Strategy 
        
        <img src="docshealth\estruturaStrategy.PNG" alt="Strategy parteness">
+       
        Referencia pagina: https://refactoring.guru/design-patterns/strategy
 
 
